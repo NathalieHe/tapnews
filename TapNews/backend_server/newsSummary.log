@@ -183,3 +183,8 @@ ServerSelectionTimeoutError: localhost:27017: [Errno 111] Connection refused
 2017-10-09 22:00:42,306 - root - INFO - userId: 8888@gmail.com  pageNumber: 1
 2017-10-09 22:00:43,614 - root - INFO - userId: 8888@gmail.com  pageNumber: 2
 2017-10-09 22:00:55,517 - root - INFO - userId: 8888@gmail.com  pageNumber: 3
+2017-10-10 11:40:49,725 - root - INFO - userId: 8888@gmail.com  pageNumber: 1
+2017-10-10 11:54:41,301 - root - INFO - userId: 8888@gmail.com  pageNumber: 1
+2017-10-10 11:54:44,134 - root - INFO - userId: 8888@gmail.com  pageNumber: 1
+2017-10-10 11:54:46,374 - root - INFO - userId: 8888@gmail.com  pageNumber: 1
+2017-10-10 12:19:35,181 - root - INFO - userId: 8888@gmail.com  pageNumber: 1
