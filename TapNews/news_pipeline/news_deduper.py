@@ -37,7 +37,7 @@ cloudAMQP_client = CloudAMQPClient(config['news_deduper']['DEDUPE_NEWS_TASK_QUEU
                                    config['news_deduper']['DEDUPE_NEWS_TASK_QUEUE_NAME'])
 
 def handle_message(msg):
-    if msg is None or not isinstance(msg, dict) :
+    if msg is None or not isinstance(msg, dict):
         return
 
     task = msg
